@@ -44,7 +44,7 @@ Collector Specific Attributes
 Usage
 =====
 1. Download the Uptime Cloud Monitor cookbook into your `chef-repo/cookbooks/uptime_cloud_monitor` directory: (the cookbook directory name must be uptime_cloud_monitor)
-* `git clone https://github.com/CopperEgg/chef-copperegg.git ./uptime_cloud_monitor`, or
+* `git clone https://github.com/CopperEgg/chef-ucm.git ./uptime_cloud_monitor`, or
 *  manually download from the Opscode community site `http://community.opscode.com/cookbooks/uptime_cloud_monitor`, or
 * `knife cookbook site install uptime_cloud_monitor`
 2. Set your apikey as described in the `Attributes` section.
